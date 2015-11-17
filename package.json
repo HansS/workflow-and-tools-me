@@ -1,0 +1,20 @@
+{
+  "name": "workflow-and-tools-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanss/workflow-and-tools-me.git"
+  },
+  "keywords": [],
+  "author": "Hans Schenker <hans.schenker@windowslive.com> (http://netxpert.ch)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanss/workflow-and-tools-me/issues"
+  },
+  "homepage": "https://github.com/hanss/workflow-and-tools-me#readme"
+}
